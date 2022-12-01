@@ -5,13 +5,14 @@
         --font1: Verdana, Geneva, Tahoma, sans-serif;
         --font2:'pasion one',cursive;
         --font3:'Sriracha',cursive;
+        
     }
     
 
 *{
     margin:0px ;
     padding: 0px;
-    font-size: 1em;
+    font-size: 2em;
     
 }
 html,body {
@@ -30,7 +31,7 @@ header > h1{
     font-family: var(--font2);
     padding-top: 50px;
     font-variant: small-caps;
-    font-size: 8vw;
+    font-size: 10vw;
     
 
 
